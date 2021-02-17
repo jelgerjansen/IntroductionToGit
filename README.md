@@ -5,4 +5,4 @@ This is my first commit.
 
 This is my second commit.
 
-This line is written while issue1 was under development.
+This is a new line to test branches in Git.
